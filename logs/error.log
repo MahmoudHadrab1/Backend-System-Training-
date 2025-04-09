@@ -1,0 +1,22 @@
+2025-03-16T18:47:34.001Z - GET /favicon.ico - Error: Can't find /favicon.ico on this server!
+    at C:\Users\10\Desktop\hashemite-training-platform\app.js:60:15
+    at Layer.handle [as handle_request] (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at Route.dispatch (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:119:3)
+2025-03-17T14:19:07.282Z - GET /favicon.ico - Error: Can't find /favicon.ico on this server!
+    at C:\Users\10\Desktop\hashemite-training-platform\app.js:60:15
+    at Layer.handle [as handle_request] (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:149:13)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at next (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:145:7)
+    at Route.dispatch (C:\Users\10\Desktop\hashemite-training-platform\node_modules\express\lib\router\route.js:119:3)
